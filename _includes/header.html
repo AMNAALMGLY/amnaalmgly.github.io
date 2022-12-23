@@ -2,6 +2,7 @@
     <header>
 
       <!-- Nav Bar -->
+
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
           {% if page.permalink != '/' -%}
@@ -61,6 +62,7 @@
                 </a>
               </li>
               {%- endif %}
+              <li class="nav-item"><a class="nav-link" href="{{ '/assets/pdf/CV_Dec.pdf' | relative_url }}" target="_blank">CV</a></li>
 
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
@@ -103,6 +105,7 @@
                   <i class="fas fa-sun"></i>
                 </button>
               </li>
+
               {%- endif %}
             </ul>
           </div>

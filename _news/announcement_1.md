@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-11-22 
 inline: true
 ---
 
-A simple inline announcement.
+November 2022:Invited discussion at IndabaX Sudan on women in ML workshop!
