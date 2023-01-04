@@ -4,6 +4,7 @@ title: About
 permalink: /
 
 [//]: # (subtitle: <a href='#'>Predoc research </a>. 366 Galves St,Stanford,CA)
+subtitle: <a href='#'>Pre-doc researcher in ML</a>. 366 Galvez St,Stanford,CA. +14155001686
 
 profile:
   align: left

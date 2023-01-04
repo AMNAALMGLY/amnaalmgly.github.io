@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 👩🏽‍💻🇸🇩  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 👩🏽‍💻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://AMNAALMGLY.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -69,9 +69,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: AMNAALMGLY
 gitlab_username: # your GitLab user name
-twitter_username: Amna Elmustafa   # your Twitter handle
+twitter_username: ElmustafaAmna   # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: amna-elmustafa # your LinkedIn user name
+linkedin_username: amna-elmustafa-20ab8b11a # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
