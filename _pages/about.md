@@ -40,7 +40,7 @@ This experience opened the gate to many possibilities, most importantly to great
 
 More than that, I was able to learn more during a 1-year internship  with David Rolnick at MILA. 
 
-Fall 2022 I began A completely different experience! As a predoc researcher at Stanford king center, working  with Stefano Ermon, David Lobell and Soledad Parilliman on [various projects](https://amnaalmgly.github.io/assets/pdf/CV_Dec.pdf) 
+Fall 2022 I began A completely different experience! As a predoc researcher at Stanford king center, working  with Stefano Ermon, David Lobell, Irene Lo and David Rolnick  on [various projects](https://amnaalmgly.github.io/assets/pdf/CV_Dec.pdf) 
 
 I'm generally interested in the question of out of distribution generalization and causal inference with applications to computational sustainability and poverty questions.
 
