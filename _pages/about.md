@@ -4,7 +4,7 @@ title: About
 permalink: /
 
 [//]: # (subtitle: <a href='#'>Predoc research </a>. 366 Galves St,Stanford,CA)
-subtitle: Predoc ML Researcher, 366 Galvez St, Stanofrd, CA.
+subtitle: Predoc ML Researcher
 
 [//]: # (366 Galvez St, Stanofrd, CA.)
 
@@ -44,7 +44,7 @@ Fall 2022 I began A completely different experience! As a predoc researcher at S
 
 I'm generally interested in the question of out of distribution generalization and causal inference with applications to computational sustainability and poverty questions.
 
-It is worth noting that during my undergrad back in Sudan `research` was very  uncommon word. When we published our [first paper](https://ieeexplore.ieee.org/abstract/document/9070840) in final year, we were one of 1% of students who published that year. while we had no supervision provided during working on that paper. This is the strongest reason that keeps me motivated to push forward this research journey.I was also awarded AMMI scholarship, with less than 6% acceptance rate, as well as [DAAD Leadership for Africa](https://www.daad.eg/en/about-us/about-the-daad/) scholarship. Besides I was one of 5% top performant students in both undergrad and master.
+It is worth noting that during my undergrad back in Sudan research was very  uncommon word. When we published our [first paper](https://ieeexplore.ieee.org/abstract/document/9070840) in final year, we were one of 1% of students who published that year. while we had no supervision provided during working on that paper. This is the strongest reason that keeps me motivated to push forward this research journey.I was also awarded AMMI scholarship, with less than 6% acceptance rate, as well as [DAAD Leadership for Africa](https://www.daad.eg/en/about-us/about-the-daad/) scholarship. Besides I was one of 5% top performant students in both undergrad and master.
 
 Outside of research, I mostly enjoy reading and discussing political and ethical philosophy. I also enjoy watching and discussing cinema. Moreover, I'm always happier after practicing creative writing or piano playing.
 
