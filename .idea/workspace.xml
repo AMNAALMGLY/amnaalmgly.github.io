@@ -6,15 +6,25 @@
   <component name="ChangeListManager">
     <list default="true" id="66cc4216-ae8c-451f-baf8-30891c9bb3d4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/selected_papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/selected_papers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/cons.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/mybirf.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/odetojoy.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/platform.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/platform2.jpg" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/_pages/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-15-formatting-and-links.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/How to 'Neurips' for dummies.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-28-github-metadata.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-28-twitter.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/From Khartoum to US.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
+>>>>>>> parent of 42680cb (more customization)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671795103161</updated>
-      <workItem from="1671795105383" duration="23876000" />
+      <workItem from="1671795105383" duration="19203000" />
     </task>
     <servers />
   </component>
