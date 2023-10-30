@@ -12,17 +12,14 @@ profile:
   align: left
   image: prof_pic.jpeg
   image_circular: true # crops the image to make it circular
-social: true  # includes social icons at the bottom of the page
-
+  address: >
+    <p>302C </p>
+    <p>366 Galves St.</p>
+    <p>Stanford, CA 94305</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-address: >
-
-    <p>366 Galves St.</p>
-
-    <p>Stanford, CA 94305</p>
 ---
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)

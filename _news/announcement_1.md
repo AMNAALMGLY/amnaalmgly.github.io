@@ -4,4 +4,4 @@ date: 2022-11-22
 inline: true
 ---
 
-Invited discussion at `IndabaX Sudan` on women in ML workshop
+November 2022:Invited discussion at IndabaX Sudan on women in ML workshop!
