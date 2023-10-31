@@ -4,4 +4,4 @@ date: 2022-09-01
 inline: true
 ---
 
-Moved to Us to start my predoc at Stanford king center
+Moved to the US to start my predoc at Stanford king center
