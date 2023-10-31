@@ -3,16 +3,16 @@ layout: about
 title: About
 permalink: /
 
-[//]: # (subtitle: <a href='#'>Predoc research </a>. Address. Contacts. Moto. Etc.)
+(subtitle: <a href='#'>Predoc researcher </a>)
 
 profile:
+  
   align: left
   image: prof_pic.jpeg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>302C </p>
-    <p>366 Galves St.</p>
-    <p>Stanford, CA 94305</p>
+#  address: >
+#    <p>366 Galves St.</p>
+#    <p>Stanford, CA 94305</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,17 +26,16 @@ social: true  # includes social icons at the bottom of the page
 
 [//]: # ()
 [//]: # ([//])
-Hello there, Thanks for landing into my personal space! I'm Amna. I was born and raised in Khartoum, Sudan, a very big and diverse country with very narraw minded and intolerant  politicians! I spent the last 2 years however between Senegal and US.
-I got my undergard from Khartoum University with a major in Electrical and Electronics Engineering, where I was also interested in taking macro economics/public policy courses. In final year, I heard about Machine Learning and kicked off the learning journey with this project, published in IEEEXplore.
+Hello there, Thanks for landing in my personal space! I'm Amna. I was born and raised in Khartoum, Sudan. I spent the last two years, however, between Senegal and the US.
+I got my undergrad from Khartoum University with a major in Electrical and Electronics Engineering, where I was also interested in taking macroeconomics/public policy courses. In my final year, I heard about Machine Learning and started the learning journey with an independent research, published in IEEEXplore.
 
-After working in different companies there in process control and software engineering, I decided to rather go further in the ML journey and started  a one-year Master at AMMI in Senegal.
-This experience opened the gate to many possibilities, most importantly to great connections to great researches from FAIR & google AI! 
+After working in different companies in process control and software engineering, I decided to go further in the ML journey and started a one-year Master at AMMI in Senegal.
+This experience opened the gate to many possibilities, most notably to great connections to researchers from FAIR and Google AI! 
 
-More than that, I was able to learn during a 1 year internship  with David Rolnick at MILA. 
+More than that, I was able to learn during a one year internship with David Rolnick at MILA. 
 
-Fall 2022 I began A completely different experience! As a predoc researcher at Stanford king center, working  with Stefano Ermon, David Lobell and Irene Lo. 
+Fall 2022, I began A completely different experience! Working As a predoc researcher at Stanford King Center under the supervision of Stefano Ermon, David Lobell and Irene Lo. 
 
-I'm generally interested in the question of using novel data and computational methods to achieve sustainable development in low-income countries and conflict regions with a focus on climate, poverty & agricultural applications. I have used in the past remote sensing as a novel data source for scarce data regimes. But interested to explore more novel data methods
-
+I'm generally interested in using novel data and computational methods to achieve sustainable development in low-income countries and conflict regions with a focus on climate, poverty, and agricultural applications. I have used in the past remote sensing as a novel data source for scarce data regimes. But interested in exploring more novel data methods
 
 [//]: # (&#40;Link to your social media connections, too. This theme is set up to use [Linkedin]&#40;&#40;https://www.linkedin.com/in/amna-elmustafa-20ab8b11a/&#41;&#41; )
