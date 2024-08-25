@@ -31,7 +31,8 @@ I got my undergrad from Khartoum University with a major in Electrical and Elect
 
 After working in different companies in software engineering, I decided to go further in the research path and got [AMMI scholarship](https://aimsammi.org/), A master program in machine intelligence in Senegal.
 This experience opened the gate to a collaboration with the Stanford AI lab. More than that, I was able to learn during an internship with [David Rolnick](https://davidrolnick.com/) at MILA on biodervisty monitering. Fall 2022, I began a different experience, working As a predoc researcher at [Stanford King Center](https://kingcenter.stanford.edu/) under the supervision of [Stefano Ermon](https://cs.stanford.edu/~ermon/), [David Lobell](https://fse.fsi.stanford.edu/people/david_lobell) and [Irene Lo](https://sites.google.com/view/irene-lo).
-Currently, I'm a first year phD student working with [Hannah Kerner](https://hannah-rae.github.io/) at ASU.
+
+Currently, I'm a first year PhD student working with [Hannah Kerner](https://hannah-rae.github.io/) at ASU.
 I'm generally interested in using novel data and computational methods to achieve sustainable development in low-income countries and conflict regions with a focus on climate, poverty, and agricultural applications. I have used in the past remote sensing as a novel data source for scarce data regimes. But interested in exploring more novel data methods.
 
 [//]: # (&#40;Link to your social media connections, too. This theme is set up to use [Linkedin]&#40;&#40;https://www.linkedin.com/in/amna-elmustafa-20ab8b11a/&#41;&#41; )
